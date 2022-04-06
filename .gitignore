@@ -1,2 +1,2 @@
-./audio-chunks
-./__pycache__
+audio-chunks/
+__pycache__/
